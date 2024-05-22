@@ -7,7 +7,7 @@
 .header{
     min-height: 90vh;
     width: 100%;
-    background-image:linear-gradient(rgba(109, 96, 180, 0.63),rgba(238, 178, 99, 0.322)), url(image/Images1.jpg);
+    background-image:linear-gradient(rgba(109, 96, 180, 0.63),rgba(238, 178, 99, 0.322)), url(Images1.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -245,7 +245,7 @@ p{
 .cta{
     margin: 100px auto;
     width:100%;
-    background-image:url(image/aaa.png);
+    background-image:url(aaa.png);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -292,7 +292,7 @@ p{
     width: 100%;
     text-align: center;
     padding: 30px 0;
-    background-image:linear-gradient(rgba(10, 7, 20, 0.562),rgba(49, 146, 175, 0.007)), url(image/milk1.png);
+    background-image:linear-gradient(rgba(10, 7, 20, 0.562),rgba(49, 146, 175, 0.007)), url(milk1.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -326,7 +326,7 @@ p{
 .col-header{
     min-height: 90vh;
     width: 100%;
-    background-image:linear-gradient(rgba(253, 249, 23, 0.171),rgba(49, 146, 175, 0.007)), url(image/yogesh.png);
+    background-image:linear-gradient(rgba(253, 249, 23, 0.171),rgba(49, 146, 175, 0.007)), url(yogesh.png);
     background-position: center;
     background-size: cover;
     text-align: center;
